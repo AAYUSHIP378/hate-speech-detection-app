@@ -11,4 +11,5 @@ significantly outperforms baseline methods, achieving improved precision, recall
 study highlights the effectiveness of transformer-based architectures in combating online hate speech.
 
 I have uploaded thesis on figshare
-THIS IS MY DOI - https://doi.org/10.6084/m9.figshare.30041116 
+THIS IS MY DOI - https://doi.org/10.6084/m9.figshare.30050476
+
